@@ -1,0 +1,6 @@
+{
+  "name": "Tryout TKA SD",
+  "description": "Platform CBT Tryout Tes Kemampuan Akademik (TKA) SD/MI dengan sistem 4-Role: Peserta (Siswa), Guru (Pembuat Soal & Evaluasi), Proktor (Live Monitoring & Token), dan Admin (Sistem & Penjadwalan).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
